@@ -1,2 +1,2 @@
-# privacy-policy-ou-brain-privacy
+# Add privacy policy
 Politica de privacidade BRAIN
